@@ -1,6 +1,6 @@
 AirBnB_clone
 --------------------------------------------------------------------------------------------------------------------
-This Project is focused on building a clone of the AirBnB website.
+This Project is purely focused on building a clone of the AirBnB website.
 
 ## Command Line Interface
 --------------------------------------------------------------------------------------------------------------------
