@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module contains classes, functions and constants related to Review model."""
+"""This module contains classes, functions and constants."""
 from models.base_model import BaseModel
 
 

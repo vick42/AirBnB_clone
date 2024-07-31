@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module consists classes, functions and constats related to Place model."""
+"""This module consists classes, functions and constants."""
 from models.base_model import BaseModel
 
 

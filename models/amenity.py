@@ -3,7 +3,6 @@
 from models.base_model import BaseModel
 
 
-
 class Amenity(BaseModel):
     """This Amenity Class contains amenity related attributes to store."""
     name = ""
